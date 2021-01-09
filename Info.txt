@@ -1,0 +1,2 @@
+On this project you can randomly generate a key and encrypt the data you have
+the key would generate with the specefic alphabet
